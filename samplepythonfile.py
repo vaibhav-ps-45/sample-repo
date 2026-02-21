@@ -1,2 +1,1 @@
-A = "new python file"
-print("A")
+print("new python file")
