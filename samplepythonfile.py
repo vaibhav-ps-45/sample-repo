@@ -1,2 +1,2 @@
-A = new python file
+A = "new python file"
 print("A")
